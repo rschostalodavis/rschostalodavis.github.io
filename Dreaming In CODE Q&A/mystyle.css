@@ -10,6 +10,13 @@ h1 {
 } 
 
 p{ 
+    font-size: 40;
+    color: white;
+    margin-left: 20px;
+}
+
+a{
+    font-size: 40;
     color: white;
     margin-left: 20px;
 }
