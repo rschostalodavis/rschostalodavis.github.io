@@ -1,4 +1,8 @@
 body {
-    background-image: url("IMG_0471");
-    background-repeat: no-repeat;
+    background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
 } 
