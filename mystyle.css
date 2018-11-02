@@ -10,15 +10,13 @@ h1 {
 } 
 
 p{ 
+    font-size: 40;
     color: white;
     margin-left: 20px;
 }
 
-li{
+a{
+    font-size: 40;
     color: white;
     margin-left: 20px;
-}
-
-href{
-    color: white;
 }
