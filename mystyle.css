@@ -4,6 +4,12 @@ body {
 }
 
 h1 {
+    font-size: 60px;
     color: white;
     margin-left: 20px;
 } 
+
+p{ 
+    color: white;
+    margin-left: 20px;
+}
