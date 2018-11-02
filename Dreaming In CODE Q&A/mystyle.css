@@ -1,0 +1,9 @@
+body {
+    background-image: url("Mt Bachelor.jpg");
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: white;
+    margin-left: 20px;
+} 
